@@ -70,11 +70,11 @@ research has concluded/the final MS project is being written.
 # Small Projects## CSC_Seminar_Lean__Paper: This paper was prepared for an end of semester project for LSU’s CSC
 7800, Computer Science Research Seminar. This was completed in Fall 2023. The project/paper requirements are listed below.
 
-⁃ Objectives: The objective of this assignment is to practice the writing skills
+- Objectives: The objective of this assignment is to practice the writing skills
 learned in this course to prepare a typical technical paper in
 computer science.
 
-⁃ Description: In this assignment, you are required to submit a short paper of 3
+- Description: In this assignment, you are required to submit a short paper of 3
 pages. The paper can be literature survey, solution, measurement,
 or on any technical topics in Computer Science. The paper should
 be 100% original work done by yourself. Materials used for other
@@ -84,7 +84,7 @@ Microsoft Word will NOT be accepted. By the due date, you need
 to submit (1) the PDF file and (2) the LaTeX package (the Zip file
 downloaded from Overleaf) on Moodle by the due date.
 
-⁃ Paper Sections: Your paper should have the following components:
+- Paper Sections: Your paper should have the following components:
 ⁃ Title
 ⁃ Author
 ⁃ Abstract
