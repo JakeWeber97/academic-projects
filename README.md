@@ -1,6 +1,6 @@
-**Main Projects:**
+# Main Projects:
 
-**Classes Between Line Graphs and Claw-free Graphs**
+## Classes Between Line Graphs and Claw-free Graphs
 
 Abstract: A line graph L(G) of G = (V, E) is the graph with vertex set E in which x, y
 of E are adjacent as vertices if and only if they are adjacent as edges in
@@ -16,6 +16,7 @@ to provide an alternative approach, with fewer graph classes and
 operations, to that of Chudnovsky and Seymour. This talk is based on
 joint work with Guoli Ding.
 
+```
 Code Comments:
 - Due to the nature of graph decomposition/construction, we have
 developed a series of functions/algorithms to test our class conjectures.
@@ -25,10 +26,9 @@ hand.
 - **WORK IN PROGRESS:** Note that the functions listed are a fraction of
 those that have been written; the rest will be added once the project’s
 research has concluded/the final dissertation is being written.
+```
 
-
-**Social Choice Theory: An Application on Voters of the Associated Press (AP) Top
-25 NCAA Football Rankings:** 
+## Social Choice Theory: An Application on Voters of the Associated Press (AP) Top 25 NCAA Football Rankings:
 - Problem Description: Division 1 College Football is a major part of American culture, one
 that everyone can get excited about. Rivalries and competition
 aside, the NCAA financial landscape has dramatically changed
@@ -50,6 +50,7 @@ and see if we can determine group dynamics that may speak to
 how the group decision, ultimately deciding which teams make the
 playoffs and those that do not, may be affected.
 
+```
 Code Comments:
 - I would like to thank avid sports fan and analytics hobbyist
 @bakonydraco on Reddit for sharing his NCAA AP Top 25 Football
@@ -62,12 +63,11 @@ this paper.
 - **WORK IN PROGRESS:** Note that the functions listed are a fraction of
 those that have been written; the rest will be added once the project’s
 research has concluded/the final MS project is being written.
+```
 
 ---
 
-**Small Projects:**
-
-**CSC_Seminar_Lean__Paper:** This paper was prepared for an end of semester project for LSU’s CSC
+# Small Projects## CSC_Seminar_Lean__Paper: This paper was prepared for an end of semester project for LSU’s CSC
 7800, Computer Science Research Seminar. This was completed in Fall 2023. The project/paper requirements are listed below.
 
 ⁃ Objectives: The objective of this assignment is to practice the writing skills
