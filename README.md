@@ -84,6 +84,7 @@ Microsoft Word will NOT be accepted. By the due date, you need
 to submit (1) the PDF file and (2) the LaTeX package (the Zip file
 downloaded from Overleaf) on Moodle by the due date.
 
+```
 - Paper Sections: Your paper should have the following components:
 ⁃ Title
 ⁃ Author
@@ -107,3 +108,4 @@ our course website. Before you submit, you should test if your Zip
 file can be successfully uploaded onto Overleaf.
 
 ⁃ Format: Use the provided ACM template format.
+```
