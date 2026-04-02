@@ -25,11 +25,17 @@ about them, and make provide insights that would be otherwise difficult by
 hand.
 - **WORK IN PROGRESS:** Note that the functions listed are a fraction of
 those that have been written; the rest will be added once the project’s
-research has concluded/the final dissertation is being written.
+research has concluded/the final dissertation is being written. We will refrain from attaching until the dissertation is available through LSU's dissertation repository.
 ```
 
 ## Social Choice Theory: An Application on Voters of the Associated Press (AP) Top 25 NCAA Football Rankings:
-- Problem Description: Division 1 College Football is a major part of American culture, one
+Abstract: Division I College Football is a major part of American culture. Rivalries and competition aside, the NCAA financial landscape has dramatically changed over the past decade with the growth of NIL (name, image, and likeness) deals and online sports betting. The implications based on the outcomes of these competitive games and team rankings are more valuable than ever before. As one of the first metrics for determining post-season play, we analyze the NCAA Associated Press (AP) Top 25 Poll results over the 2021-2024 seasons to determine how group dynamics may impact the group decision-making process that is the AP Poll. Through a graph theoretic approach, we describe the group’s level of agreement, influential members of the group, and how this impacts the sport.
+
+Through the derived agreement graphs, we conclude that the group is generally comprised of 3 schools of thought regarding what the weekly ranking should look like. After week 10, a general lower bound of 80 percent of all voters fit in these dominant schools of thought. We note that the 2024 season appears to have the least amount of agreement between the voters throughout the entire season.
+
+Through the derived domination graphs, we conclude that the group does not contain any singular dominant nor overly-influenced voter for the 2021-2024 seasons. However, some voters do take on both the influencing and influenced roles. We also conclude that voter persuasion predominantly occurs in the latter half of a given season.
+
+<!-- - Problem Description: Division 1 College Football is a major part of American culture, one
 that everyone can get excited about. Rivalries and competition
 aside, the NCAA financial landscape has dramatically changed
 over the past decade with the growth of NIL (Name, Image, and
@@ -48,7 +54,7 @@ leads to the question of, "Who actually got the ranking right?"
 - Our goal is to look at the NCAA Associated Press (AP) Top 25 poll
 and see if we can determine group dynamics that may speak to
 how the group decision, ultimately deciding which teams make the
-playoffs and those that do not, may be affected.
+playoffs and those that do not, may be affected. -->
 
 ```
 Code Comments:
@@ -60,9 +66,6 @@ some algorithms. The algorithms determine what “agreement” is
 defined as and is interpreted into representable graphs. These
 graphs are printed and can be analyzed for dynamics, the aim of
 this paper.
-- **WORK IN PROGRESS:** Note that the functions listed are a fraction of
-those that have been written; the rest will be added once the project’s
-research has concluded/the final MS project is being written.
 ```
 
 ---
