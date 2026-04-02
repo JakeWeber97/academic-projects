@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SOCIAL CHOICE THEORY: AN APPLICATION ON VOTERS OF THE
+  ASSOCIATED PRESS (AP) TOP 25 NCAA FOOTBALL RANKINGS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Jake '
+    family-names: Weber
+    affiliation: Louisiana State University
+repository-code: >-
+  https://github.com/JakeWeber97/academic-projects/tree/main/Main_Projects#..%5Czcref
+url: 'https://jakeweber97.github.io'
+repository: 'https://github.com/JakeWeber97/academic-projects/'
+abstract: >-
+  Division I College Football is a major part of American
+  culture. Rivalries and competition aside, the NCAA
+  financial landscape has dramatically changed over the past
+  decade with the growth of NIL (name, image, and likeness)
+  deals and online sports betting. The implications based on
+  the outcomes of these competitive games and team rankings
+  are more valuable than ever before. As one of the first
+  metrics for determining post-season play, we analyze the
+  NCAA Associated Press (AP) Top 25 Poll results over the
+  2021-2024 seasons to determine how group dynamics may
+  impact the group decision-making process that is the AP
+  Poll. Through a graph theoretic approach, we describe the
+  group’s level of agreement, influential members of the
+  group, and how this impacts the sport.
+
+
+  The contents of this repository supplies helper lemmas and
+  transforms data so that it may be translated into graph
+  structures. We then analyze such simple and directed
+  graphs to draw insights.
+keywords:
+  - NCAA
+  - graph
+  - theory
+  - domination
+  - influence
+  - consensus
+  - agreement
+  - social choice theory
+  - data analysis
+version: '1'
+date-released: '2026-04-02'
